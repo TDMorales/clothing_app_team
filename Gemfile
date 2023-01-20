@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "rspec"
-gem "activerecord", "~>5.2.1"
+gem "activerecord", "~>6.1.7"
 gem "sqlite3"
 gem "rake"
 gem "pry"
